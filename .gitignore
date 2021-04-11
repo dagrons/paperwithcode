@@ -1,1 +1,6 @@
+*
+!*/
+!*.py
+!*.ipynb
 MalwareClassification/
+*checkpoint*
