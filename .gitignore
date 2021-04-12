@@ -4,3 +4,15 @@
 !*.ipynb
 MalwareClassification/
 */.ipynb_checkpoints/*.ipynb
+第一周-模型篇/.ipynb_checkpoints/dpcnn-checkpoint.py
+第一周-模型篇/.ipynb_checkpoints/dpcnn-checkpoint.py
+第一周-模型篇/.ipynb_checkpoints/resnet-checkpoint.py
+第三周-训练篇/malware_dpcnn/.ipynb_checkpoints/generate_dataset-checkpoint.py
+第三周-训练篇/malware_dpcnn/.ipynb_checkpoints/resnet-checkpoint.py
+第三周-训练篇/malware_dpcnn/.ipynb_checkpoints/train-checkpoint.ipynb
+第三周-训练篇/malware_dpcnn/scripts/.ipynb_checkpoints/split_train_test-checkpoint.ipynb
+第二周-数据集篇/.ipynb_checkpoints/generate_dataset-checkpoint.py
+第四周-部署篇/malware_classification/.ipynb_checkpoints/predict-checkpoint.py
+第四周-部署篇/malware_classification/.ipynb_checkpoints/predict-checkpoint.ipynb
+第四周-部署篇/malware_classification/.ipynb_checkpoints/resnet-checkpoint.py
+第四周-部署篇/malware_classification/scripts/.ipynb_checkpoints/tranform-checkpoint.ipynb
