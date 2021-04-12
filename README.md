@@ -27,3 +27,15 @@ y = y.cuda()
 6. 关于torch和RTX3090,cudnn问题，见torch官网/get-started/locally
 
 7. 深度学习果然还是炼丹
+
+8. 在部署时，也要注意，state_dict保存时是save的是cuda版本，加载时也要是cuda版本，并且输入也要是cuda
+
+9. jupyter-lab markdown下无法paste，需要改emacs键位到default
+
+10. 在jupyter-lab中使用git
+首先
+```bash
+pip3 install jupyterlab-git==0.30.0b1
+```
+然后在jupyter-lab中enable extension，然后install jupyterlab-git插件，注意前后端版本号要一致，不然无法显示git panel
+
