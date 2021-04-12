@@ -3,4 +3,4 @@
 !*.py
 !*.ipynb
 MalwareClassification/
-*checkpoint*
+*/.ipynb_checkpoints/*.ipynb
