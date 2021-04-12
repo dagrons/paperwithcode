@@ -6,7 +6,7 @@ this repo is for dl code for papers i have read.
 
 1. 所有py文件都是先用ipynb进行简单的测试，然后用ipynb-py-convert生成的（ipynb调试更加方便）
 
-2. 训练集篇是从模型篇中拷贝模型文件，再从数据集篇拷贝Dataset文件，然后放入训练篇下，希望这样的文件划分能产生一定的代码复用性
+2. 训练集篇是从模型篇中拷贝模型文件，再从数据集篇拷贝Dataset文件，然后放入训练篇下，希望这样的文件划分能产生一定的代码复用性，包括generate_dataset.py, model.py, train.py以及scripts文件夹，其中scripts文件夹包括对数据集的划分和基本处理的代码文件
 
 3. jupyter-lab是一个好东西，如果有更多的extension，建立起vscode那样的生态就好了
 
