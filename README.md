@@ -39,3 +39,7 @@ pip3 install jupyterlab-git==0.30.0b1
 ```
 然后在jupyter-lab中enable extension，然后install jupyterlab-git插件，注意前后端版本号要一致，不然无法显示git panel
 
+11. 在jupyter中调试
+```
+import pdb; pdb.set_trace()
+```
