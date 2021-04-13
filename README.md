@@ -43,3 +43,7 @@ pip3 install jupyterlab-git==0.30.0b1
 ```
 import pdb; pdb.set_trace()
 ```
+
+12. 远程文件互传，WinSCP，真的好用
+
+13. 如果tensorx为唯一元素[x]或[[x]], 可以通过tensorx.item()取出x为python基本类型(int, float等)
