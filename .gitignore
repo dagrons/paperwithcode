@@ -2,6 +2,7 @@
 !*/
 !*.py
 !*.ipynb
+!*.md
 MalwareClassification/
 */.ipynb_checkpoints/*.ipynb
 第一周-模型篇/.ipynb_checkpoints/dpcnn-checkpoint.py
