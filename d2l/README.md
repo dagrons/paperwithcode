@@ -1,0 +1,2 @@
+由于之前已经在cs224n中学到了CNN和RNN相关知识，这里从Attention开始，不再对CNN和RNN重复学习
+

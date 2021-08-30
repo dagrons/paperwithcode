@@ -1,4 +1,4 @@
-this repo is for dl code for papers i have read.
+this repo is for learning deep learning 
 
 ## FAQ
 
@@ -47,3 +47,4 @@ import pdb; pdb.set_trace()
 12. 远程文件互传，WinSCP，真的好用
 
 13. 如果tensorx为唯一元素[x]或[[x]], 可以通过tensorx.item()取出x为python基本类型(int, float等)
+
